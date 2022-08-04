@@ -16,8 +16,8 @@
 
 package com.android.volley.toolbox;
 
-import androidx.annotation.GuardedBy;
-import androidx.annotation.Nullable;
+import com.android.internal.annotations.GuardedBy;
+import android.annotation.Nullable;
 import com.android.volley.NetworkResponse;
 import com.android.volley.Request;
 import com.android.volley.Response;

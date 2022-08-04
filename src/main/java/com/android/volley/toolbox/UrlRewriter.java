@@ -16,7 +16,7 @@
 
 package com.android.volley.toolbox;
 
-import androidx.annotation.Nullable;
+import android.annotation.Nullable;
 
 /** An interface for transforming URLs before use. */
 public interface UrlRewriter {

@@ -44,8 +44,8 @@ java_library {
 
     libs: [
         // Only needed at compile-time.
+        "framework-annotations-lib",
         "androidx.annotation_annotation",
-
         "org.apache.http.legacy",
     ],
 }

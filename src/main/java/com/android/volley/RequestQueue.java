@@ -18,7 +18,7 @@ package com.android.volley;
 
 import android.os.Handler;
 import android.os.Looper;
-import androidx.annotation.IntDef;
+import android.annotation.IntDef;
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 import java.util.ArrayList;

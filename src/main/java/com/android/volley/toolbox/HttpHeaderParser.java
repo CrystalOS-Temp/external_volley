@@ -16,7 +16,7 @@
 
 package com.android.volley.toolbox;
 
-import androidx.annotation.Nullable;
+import android.annotation.Nullable;
 import androidx.annotation.RestrictTo;
 import androidx.annotation.RestrictTo.Scope;
 import com.android.volley.Cache;

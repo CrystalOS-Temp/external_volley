@@ -19,8 +19,8 @@ package com.android.volley.toolbox;
 import static com.android.volley.toolbox.NetworkUtility.logSlowRequests;
 
 import android.os.SystemClock;
-import androidx.annotation.NonNull;
-import androidx.annotation.Nullable;
+import android.annotation.NonNull;
+import android.annotation.Nullable;
 import androidx.annotation.RestrictTo;
 import com.android.volley.AsyncNetwork;
 import com.android.volley.AuthFailureError;

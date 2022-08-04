@@ -16,7 +16,7 @@
 
 package com.android.volley;
 
-import androidx.annotation.Nullable;
+import android.annotation.Nullable;
 
 /**
  * Encapsulates a parsed response for delivery.
